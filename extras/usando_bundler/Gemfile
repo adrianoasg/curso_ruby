@@ -1,0 +1,10 @@
+# Bundler - serve para gerenciar as dependências do seu projeto atraves do arquivo Gemfile
+# site - https://bundler.io
+
+# gem install bundler
+source 'https://rubygems.org'
+
+gem 'lerolero_generator'
+gem 'cpf_utils'
+
+# utilizar o comando bundle
